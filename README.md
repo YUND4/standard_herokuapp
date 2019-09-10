@@ -1,2 +1,2 @@
 # standard_herokuapp
-This is a standar application whit Django from heroku
+This is a standard application whit Django from heroku
